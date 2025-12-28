@@ -2,7 +2,7 @@
 
 > **Your all-in-one portal to the anime multiverse — watch, read, play, and connect!**
 
-![Anime-Verse Banner] <img width="1366" height="768" alt="swappy-20251227-132814" src="https://github.com/user-attachments/assets/6b70a2ea-5239-49bd-9587-776da6ca3b7e" />
+Anime-Verse Banner <img width="1366" height="768" alt="swappy-20251227-132814" src="https://github.com/user-attachments/assets/6b70a2ea-5239-49bd-9587-776da6ca3b7e" />
 
 Anime-Verse adalah platform web modern yang dirancang khusus untuk para pecinta anime, manga, dan game online. Di sini, segalanya terintegrasi dalam satu tempat: mulai dari streaming anime terbaru, membaca manga favorit, bermain game ringan berbasis web, hingga berdiskusi aktif dalam komunitas global penggemar anime.
 
