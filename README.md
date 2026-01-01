@@ -62,7 +62,7 @@ Anime-Verse adalah platform web modern yang dirancang khusus untuk para pecinta 
 Anime-Verse dibangun dengan semangat open-heart (belum sepenuhnya open-source, tapi terbuka untuk ide!).  
 Jika kamu punya saran fitur, desain UI/UX, atau ingin bantu testing — jangan ragu hubungi pembuat!
 
-📧 **Kontak**: [email@example.com](mailto:email@example.com)  
+📧 **Kontak**: [tachibanaakram@gmail.com](mailto:tachibanaakram@gmail.com)  
 📍 Dibuat dengan ❤️ dari Bandung, Indonesia
 
 ---
