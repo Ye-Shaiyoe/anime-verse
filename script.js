@@ -16,4 +16,4 @@ function cariAnime() {
             // Tampilkan hasil pencarian di halaman
         });
 }
-</script>
+</script> 
