@@ -209,7 +209,7 @@ require_once "config/koneksi.php";
                         🚀 Update Terbaru Anime Winter 2026
                     </div>
                     <h1 class="text-5xl md:text-7xl font-black text-white mb-6 leading-tight text-shadow">
-                        Dunia <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-emerald-400 gradient-animate">Otaku</span><br>Dalam Genggaman
+                        Jelajahi <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-emerald-400 gradient-animate">Dunia</span><br> Per Wibuan
                     </h1>
                     <p class="text-slate-400 text-lg leading-relaxed max-w-lg">
                         Streaming anime legal, baca manga terbaru, dan mainkan game adaptasi anime terbaik. Semua dalam satu platform.
