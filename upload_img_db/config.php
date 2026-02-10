@@ -1,5 +1,5 @@
 <?php
-// config.php
+
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');          
 define('DB_PASS', '');              
@@ -7,7 +7,7 @@ define('DB_NAME', 'foto_upload');
 
 
 define('UPLOAD_DIR', __DIR__ . '/uploads/'); 
-define('MAX_SIZE', 5 * 1024 * 1024); // 5MB
+define('MAX_SIZE', 5 * 1024 * 1024);
 define('ALLOWED_TYPES', ['image/jpeg', 'image/png', 'image/gif', 'image/webp']);
 
 function getDB() {
